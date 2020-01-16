@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 coucou
+=======
+bonjour
+>>>>>>> 5464f1b1820d4b70a24b2c28bc5bce4648b52330
